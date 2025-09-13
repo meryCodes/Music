@@ -28,4 +28,3 @@ Richard David James (born 18 August 1971), known professionally as Aphex Twin, i
 - Year: 1996
 - Label: Warp Records WarpCD43
 - Country: UK
-- 
