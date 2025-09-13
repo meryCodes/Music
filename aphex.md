@@ -24,13 +24,8 @@ Richard David James (born 18 August 1971), known professionally as Aphex Twin, i
 - Country: 
 
 
-<a href="https://github.com/usuario/proyecto/blob/main/screenshots/vista1.png" target="_blank">
-  <img src="https://github.com/usuario/proyecto/blob/main/screenshots/vista1.png" width="250"/>
-</a>
-
-
 <p float="left">
-  <a href="screenshots/vista1.png"><img src="screenshots/vista1.png" width="200" /></a>
+  <a href="art/selected ambient works 85-92.jpg"><img src="art/selected ambient works 85-92.jpg" width="200" /></a>
   <a href="screenshots/vista2.png"><img src="screenshots/vista2.png" width="200" /></a>
   <a href="screenshots/vista3.png"><img src="screenshots/vista3.png" width="200" /></a>
 </p>
