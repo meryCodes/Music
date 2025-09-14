@@ -12,11 +12,9 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 
 ### Fotos de Janis Joplin
 
-![Scrapbook de Janis Joplin](https://i.imgur.com/r62L7fS.jpg)
+![Janis Joplin con tatuaje](https://upload.wikimedia.org/wikipedia/commons/4/4b/Janis_Joplin_1970.jpg)
 
-![Janis Joplin en blanco y negro](https://i.imgur.com/83uL2Xf.jpg)
-
-![Janis Joplin con tatuaje en la muñeca](https://i.pinimg.com/736x/3f/50/f0/3f50f08d48b564e66cf4638752b99bbd.jpg)
+![Janis Joplin en blanco y negro](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Janis_Joplin_1969-07-31.jpg/800px-Janis_Joplin_1969-07-31.jpg)
 
 ---
 
@@ -32,8 +30,11 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 ### **Música**
 Una selección de sus canciones más icónicas, con miniaturas que enlazan a los videos de YouTube.
 
-* [![Janis Joplin - Get It While You Can](https://img.youtube.com/vi/6dM2uzunIXs/hqdefault.jpg)](https://youtu.be/6dM2uzunIXs)
-* [![Janis Joplin - Ball and Chain](https://img.youtube.com/vi/-ggFIeg5u1M/hqdefault.jpg)](https://youtu.be/-ggFIeg5u1M)
+* **Get It While You Can:**
+  [![Janis Joplin - Get It While You Can](https://img.youtube.com/vi/6dM2uzunIXs/hqdefault.jpg)](https://youtu.be/6dM2uzunIXs)
+
+* **Ball and Chain:**
+  [![Janis Joplin - Ball and Chain](https://img.youtube.com/vi/-ggFIeg5u1M/hqdefault.jpg)](https://youtu.be/-ggFIeg5u1M)
 
 ---
 
