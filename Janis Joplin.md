@@ -10,13 +10,13 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 
 ---
 
-<p align="center">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/10275914256756108862_0" alt="Scrapbook de Janis Joplin" width="400">
-    <br>
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/11213640914983382819_0" alt="Rareza en blanco y negro de Janis Joplin" width="400">
-    <br>
-    <img src="https://i.pinimg.com/736x/3f/50/f0/3f50f08d48b564e66cf4638752b99bbd.jpg" alt="Janis Joplin con tatuaje en la muñeca" width="400">
-</p>
+### Fotos de Janis Joplin
+
+![Scrapbook de Janis Joplin](https://i.imgur.com/r62L7fS.jpg)
+
+![Janis Joplin en blanco y negro](https://i.imgur.com/83uL2Xf.jpg)
+
+![Janis Joplin con tatuaje en la muñeca](https://i.pinimg.com/736x/3f/50/f0/3f50f08d48b564e66cf4638752b99bbd.jpg)
 
 ---
 
@@ -35,6 +35,7 @@ Una selección de sus canciones más icónicas, con miniaturas que enlazan a los
 * [![Janis Joplin - Get It While You Can](https://img.youtube.com/vi/6dM2uzunIXs/hqdefault.jpg)](https://youtu.be/6dM2uzunIXs)
 * [![Janis Joplin - Ball and Chain](https://img.youtube.com/vi/-ggFIeg5u1M/hqdefault.jpg)](https://youtu.be/-ggFIeg5u1M)
 
+---
 
 ### **Curiosidad sobre "Mercedes Benz"**
 
