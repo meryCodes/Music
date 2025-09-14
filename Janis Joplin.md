@@ -10,8 +10,8 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 
 
 <p float="left">
-  <a href="art/Janis_Joplin_-_Cash_Box_1968_(1).jpg">
-    <img src="art/Janis_Joplin_-_Cash_Box_1968_(1).jpg" width="400" />
+  <a href="art/Janis.jpg">
+    <img src="art/Janis.jpg" width="400" />
   </a>
 </p>
 
