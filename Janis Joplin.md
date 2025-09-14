@@ -8,15 +8,14 @@ Formó su propia banda, la **Kozmic Blues Band**, y más tarde la **Full Tilt Bo
 
 Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, por una sobredosis de heroína. Su muerte la incluyó en el tristemente célebre **"Club de los 27"**, junto a otros músicos que fallecieron a esa misma edad. Un año después de su muerte, se publicó su álbum póstumo, **"Pearl"**, que se convirtió en su trabajo más famoso.
 
----
 
-### Foto de Janis Joplin
-
-<p align="center">
-  <img src="./images/Janis_Joplin_-_Cash_Box_1968.jpg" alt="Janis Joplin - Cash Box 1968" width="400">
+<p float="left">
+  <a href="art/Janis_Joplin_-_Cash_Box_1968_(1).jpg">
+    <img src="art/Janis_Joplin_-_Cash_Box_1968_(1).jpg" width="400" />
+  </a>
 </p>
 
----
+
 
 ### **Datos curiosos:**
 
