@@ -12,9 +12,15 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 
 ### Fotos de Janis Joplin
 
-![Janis Joplin con tatuaje](https://upload.wikimedia.org/wikipedia/commons/4/4b/Janis_Joplin_1970.jpg)
-
-![Janis Joplin en blanco y negro](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Janis_Joplin_1969-07-31.jpg/800px-Janis_Joplin_1969-07-31.jpg)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Janis_Joplin_1970.jpg" alt="Janis Joplin Retrato" width="400">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Janis_Joplin_1969-07-31.jpg" alt="Janis Joplin en blanco y negro" width="400">
+  <br>
+  <img src="https://i.pinimg.com/736x/3f/50/f0/3f50f08d48b564e66cf4638752b99bbd.jpg" alt="Janis Joplin con tatuaje en la muñeca" width="400">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Janis_Joplin_-_Cash_Box_1968.jpg" alt="Janis Joplin - Cash Box 1968" width="400">
+</div>
 
 ---
 
@@ -30,14 +36,20 @@ Janis Joplin falleció el 4 de octubre de 1970 en Los Ángeles, a los 27 años, 
 ### **Música**
 Una selección de sus canciones más icónicas, con miniaturas que enlazan a los videos de YouTube.
 
-* **Get It While You Can:**
-  [![Janis Joplin - Get It While You Can](https://img.youtube.com/vi/6dM2uzunIXs/hqdefault.jpg)](https://youtu.be/6dM2uzunIXs)
-
-* **Ball and Chain:**
-  [![Janis Joplin - Ball and Chain](https://img.youtube.com/vi/-ggFIeg5u1M/hqdefault.jpg)](https://youtu.be/-ggFIeg5u1M)
-
----
+**Mercedes Benz:**
+[![Janis Joplin - Mercedes Benz](https://img.youtube.com/vi/yRwh1H-mH6A/hqdefault.jpg)](https://www.youtube.com/watch?v=yRwh1H-mH6A)
 
 ### **Curiosidad sobre "Mercedes Benz"**
 
 La canción "Mercedes Benz" fue una de las últimas canciones que Janis Joplin grabó. Fue compuesta por ella misma, en colaboración con el poeta Michael McClure y el cantante Bob Neuwirth, y la grabó en una sola toma sin acompañamiento instrumental, apenas cuatro días antes de su fallecimiento. Su sencillez y el mensaje sobre el consumismo la han convertido en una de sus piezas más emblemáticas.
+
+**Me and Bobby McGee:**
+[![Janis Joplin - Me and Bobby McGee](https://img.youtube.com/vi/5Cg-j0X09Ag/hqdefault.jpg)](https://www.youtube.com/watch?v=5Cg-j0X09Ag)
+
+### **Curiosidad sobre "Me and Bobby McGee"**
+
+La canción "Me and Bobby McGee" no fue escrita por Janis Joplin, sino por el famoso cantautor Kris Kristofferson. Él la compuso en 1969, y cuando Janis Joplin la grabó, la adaptó ligeramente para cantarla en primera persona.
+Además, su versión de la canción es el único sencillo de toda su carrera que alcanzó el puesto número uno en las listas de éxito, un logro que alcanzó de manera póstuma.
+
+---
+
